@@ -1,0 +1,24 @@
+# Core
+langchain>=0.2.10
+langchain-community>=0.2.10
+langgraph>=0.2.3
+python-dotenv>=1.0.1
+tiktoken>=0.7.0
+pypdf>=4.2.0
+
+# Vector DB + Embeddings (new split packages)
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.0.3
+
+# Evaluation
+evaluate>=0.4.2
+datasets>=3.1.0
+rouge-score>=0.1.2
+
+
+# Providers
+langchain-openai>=0.1.0
+huggingface_hub>=0.24.6
+
+# UI
+streamlit>=1.36.0
