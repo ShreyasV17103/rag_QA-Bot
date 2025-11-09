@@ -4,8 +4,8 @@
 - Retrieval uses **retriever.invoke(query)** per new Runnable interface.
 - Workflow: plan → retrieve → answer → reflect.
 - Set your API key in a `.env` file in this folder:
-  - `OPENAI_API_KEY=sk-...` (recommended), or
-  - `HUGGINGFACEHUB_API_TOKEN=hf-...`
+- `OPENAI_API_KEY=sk-...` (recommended), or
+- `HUGGINGFACEHUB_API_TOKEN=hf-...`
 
 ## Setup
 ```
